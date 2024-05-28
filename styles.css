@@ -1,0 +1,25 @@
+.movies {
+  margin-top: 100px;
+  
+}
+
+.header {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    margin-left:40%;
+}
+
+.links{
+    text-decoration: none;
+    margin-left: 90%;
+}
